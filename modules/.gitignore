@@ -1,0 +1,19 @@
+# Nextflow
+work/
+.nextflow*
+*.log
+
+# Outputs
+results/
+*.html
+*.zip
+
+# Genomics files
+*.bam
+*.bai
+*.vcf
+*.vcf.gz
+*.tbi
+
+# System
+.DS_Store
